@@ -1,7 +1,5 @@
 # Documentação da API
 
-**BASE_URL: localhost:8000/api/cnab/**
-
 ## Tabela de Conteúdos
 
 - [Visão Geral](#1-visão-geral)
